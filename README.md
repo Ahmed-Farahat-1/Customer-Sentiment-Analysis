@@ -41,14 +41,51 @@ The models were evaluated using metrics such as:
 
 ## Team Members
 
-| Name          | Role                 | LinkedIn |
-| ------------- | -------------------- | --------------- |
-| **[Ahmed Samy Farahat]** | Machine Learning Engineer | [LinkedIn](www.linkedin.com/in/ahmed-s-farahat-437b14222) |
-| **[mohamed wael khalifa]** | Machine Learning Engineer | [LinkedIn](www.linkedin.com/in/mohamed-wael-82b4342a2) |
-| **[Ahmed Awad Ata]** | Machine Learning Engineer | [LinkedIn]([link_to_profile](https://www.linkedin.com/in/ahmed-awad-148079286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) |
-| **[Amr Maher Abdallah]** | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) |
-| **[Ahmed Emad]** | Machine Learning Engineer | [LinkedIn]([link_to_profile](https://www.linkedin.com/in/ahmed-emad-702396283/)) |
-| **[Ahmed Abdelhamed Hussein]** | Machine Learning Engineer | [LinkedIn]([link_to_profile](https://www.linkedin.com/in/ahmed-abdelhameed-589bb6237)) |
+<div style="display: flex; flex-wrap: wrap;">
+
+<div style="margin-right: 20px;">
+    <img src="./images/Farahat.jpg" alt="Ahmed Samy" width="150" height="150"/>
+    <br/>
+    <strong>Ahmed Samy Farahat</strong><br/>
+    [LinkedIn](www.linkedin.com/in/ahmed-s-farahat-437b14222)
+</div>
+
+<div style="margin-right: 20px;">
+    <img src="./images/Wael.jpeg" alt="Mohamed Wael" width="150" height="150"/>
+    <br/>
+    <strong>Mohamed Wael Khalifa</strong><br/>
+    [LinkedIn](www.linkedin.com/in/mohamed-wael-82b4342a2)
+</div>
+
+<div style="margin-right: 20px;">
+    <img src="./images/Awad.jpeg" alt="Ahmed Awad" width="150" height="150"/>
+    <br/>
+    <strong>Ahmed Awad Ata</strong><br/>
+    [LinkedIn](https://www.linkedin.com/in/ahmed-awad-148079286)
+</div>
+
+<div style="margin-right: 20px;">
+    <img src="./images/Amr.jpeg" alt="Amr Maher" width="150" height="150"/>
+    <br/>
+    <strong>Amr Maher Abdallah</strong><br/>
+    [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+</div>
+
+<div style="margin-right: 20px;">
+    <img src="./images/Emad.jpeg" alt="Ahmed Emad" width="150" height="150"/>
+    <br/>
+    <strong>Ahmed Emad</strong><br/>
+    [LinkedIn](https://www.linkedin.com/in/ahmed-emad-702396283/)
+</div>
+
+<div style="margin-right: 20px;">
+    <img src="./images/Abdelhamid.jpeg" alt="Ahmed Abdelhameed" width="150" height="150"/>
+    <br/>
+    <strong>Ahmed Abdelhamed Hussein</strong><br/>
+    [LinkedIn](https://www.linkedin.com/in/ahmed-abdelhameed-589bb6237)
+</div>
+
+</div>
 
 ---
 
@@ -60,8 +97,10 @@ The models were evaluated using metrics such as:
 ---
 
 ## Institution/Training Organization
+
 ![Institution Logo](./images/proAr.png)
-This project was developed as part of the [Initiative Name]([link_to_initiative_website](https://www.depi.gov.eg/)).
+
+This project was developed as part of the [Initiative Name](https://www.depi.gov.eg/).
 
 ---
 
@@ -75,3 +114,7 @@ This project was developed as part of the [Initiative Name]([link_to_initiative_
     pip install -r requirements.txt
     ```
 3. Run the notebooks to reproduce the results.
+
+---
+
+This structure will create a visually appealing, interactive README file with images of the team members and links to their LinkedIn profiles. You can adjust the image sizes and styles based on your preferences!
