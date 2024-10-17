@@ -113,7 +113,8 @@ This project was developed as part of the **[Initiative Name](https://www.depi.g
 
 ## 🎥 **Demo**
 To showcase our project’s capabilities, watch the demo video:
-[![Project Demo](./images/istockphoto-472909414-612x612.jpg)]([https://www.youtube.com/watch?v=demo_link](https://youtu.be/OnAEN1znghY?si=1Q9oygk3oTxJpJ5j))
+
+[![Project Demo](./images/istockphoto-472909414-612x612.jpg)](https://www.youtube.com/watch?v=OnAEN1znghY?si=1Q9oygk3oTxJpJ5j)
 
 ---
 
