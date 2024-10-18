@@ -20,6 +20,7 @@ We utilized well-known datasets for sentiment analysis to ensure comprehensive m
 2. **[Amazon Product Reviews](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/data)**: Amazon product reviews with sentiment labels.
 3. **[IMDB Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)**: 50k movie reviews labeled as positive or negative.
 4. **[Arabic Sentiment Analysis](https://www.kaggle.com/code/rehab8reda/arabic-sentiment-analysis)**: Arabic tweets with sentiment categories.
+5. **[Stock Tweets for Sentiment Analysis and Prediction](https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction)**: Arabic tweets with sentiment categories.
 
 ---
 
